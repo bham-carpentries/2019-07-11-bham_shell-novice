@@ -22,3 +22,4 @@ These lessons will start you on a path towards using these resources effectively
 > the word “file” and either “directory” or “folder” (two common words
 > for the same thing), you're ready for this lesson.
 {: .prereq}
+ 
